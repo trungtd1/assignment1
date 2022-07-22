@@ -1,0 +1,126 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "email": "trungtdph15306@gmail.com",
+      "name": "Trần Đình Trung",
+      "password": "admit147"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/i/p/iphone_11_white_4_.png",
+      "name": "iPhone 11 64GB 1",
+      "price": "18000000",
+      "sale": "10790000",
+      "longDesc": " Điện thoại iPhone 11 tuy sở hữu mức giá phải chăng nhưng lại được trang bị cấu hình khủng, camera ấn tượng đi kèm những tính năng hiện đại. Sau đây hãy cùng CellphoneS đánh giá chi tiết sản phẩm trước khi đưa ra quyết định có nên mua hay không nhé!",
+      "shortDesc": "Apple luôn làm hài lòng tín đồ iFan với các dòng iPhone trong từng phân khúc giá. Đặc biệt, phiên bản iPhone 11 vừa ra mắt nhưng đã chiếm lĩnh được thị trường smartphone trên toàn thế giới với giá cả phải chăng. Cùng tìm hiểu chi tiết rõ hơn qua bài viết sau đây để có quyết định có nên mua hay không nhé!",
+      "salientfeatures": " Màu sắc phù hợp cá tính - 6 màu sắc bắt mắt để lựa chọn Hiệu năng mượt mà, ổn định - Chip A13, RAM 4GB Bắt trọn khung hình - Camera kép hỗ trợ góc rộng, chế độ Night Mode Yên tâm sử dụng - Kháng nước, kháng bụi IP68, kính cường lực Gorilla",
+      "category": "1",
+      "isDelete": false
+    },
+    {
+      "id": 2,
+      "name": "Laptop Asus Gaming Rog Strix G15 G513IH HN015W",
+      "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/1/_/1_69_35.jpg",
+      "price": 23990000,
+      "sale": 17990000,
+      "longDesc": "Điện thoại iPhone 11 tuy sở hữu mức giá phải chăng nhưng lại được trang bị cấu hình khủng, camera ấn tượng đi kèm những tính năng hiện đại. Sau đây hãy cùng CellphoneS đánh giá chi tiết sản phẩm trước khi đưa ra quyết định có nên mua hay không nhé!",
+      "shortDesc": "Apple luôn làm hài lòng tín đồ iFan với các dòng iPhone trong từng phân khúc giá. Đặc biệt, phiên bản iPhone 11 vừa ra mắt nhưng đã chiếm lĩnh được thị trường smartphone trên toàn thế giới với giá cả phải chăng. Cùng tìm hiểu chi tiết rõ hơn qua bài viết sau đây để có quyết định có nên mua hay không nhé!",
+      "salientfeatures": "Màu sắc phù hợp cá tính - 6 màu sắc bắt mắt để lựa chọn Hiệu năng mượt mà, ổn định - Chip A13, RAM 4GB Bắt trọn khung hình - Camera kép hỗ trợ góc rộng, chế độ Night Mode Yên tâm sử dụng - Kháng nước, kháng bụi IP68, kính cường lực Gorilla",
+      "category": 3
+    },
+    {
+      "id": 3,
+      "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/s/a/samsung-galaxy-tab-s7-fe-chinh-hang_1.jpg",
+      "name": "Samsung Galaxy Tab S7 FE (4G)",
+      "price": "13990000",
+      "sale": "11190000",
+      "shortDesc": "Apple luôn làm hài lòng tín đồ iFan với các dòng iPhone trong từng phân khúc giá. Đặc biệt, phiên bản iPhone 11 vừa ra mắt nhưng đã chiếm lĩnh được thị trường smartphone trên toàn thế giới với giá cả phải chăng. Cùng tìm hiểu chi tiết rõ hơn qua bài viết sau đây để có quyết định có nên mua hay không nhé!",
+      "salientfeatures": "Màu sắc phù hợp cá tính - 6 màu sắc bắt mắt để lựa chọn Hiệu năng mượt mà, ổn định - Chip A13, RAM 4GB Bắt trọn khung hình - Camera kép hỗ trợ góc rộng, chế độ Night Mode Yên tâm sử dụng - Kháng nước, kháng bụi IP68, kính cường lực Gorilla",
+      "category": 2
+    },
+    {
+      "id": 4,
+      "image": "http://res.cloudinary.com/thisisninh/image/upload/v1658357447/244463445_571393977443199_2660173650064071895_n_vrbi9d.jpg",
+      "name": "xyz",
+      "price": "300000",
+      "sale": "20000",
+      "shortDesc": "eqweqwe",
+      "salientfeatures": "qeweqw",
+      "category": 3
+    },
+    {
+      "id": 5,
+      "image": "http://res.cloudinary.com/thisisninh/image/upload/v1658328532/208312728_326927645595574_3177175808770289723_n_xpvytl.jpg",
+      "name": "abc",
+      "price": "300000",
+      "sale": "20000",
+      "shortDesc": "sdasd",
+      "salientfeatures": "asdasd",
+      "category": 2
+    },
+    {
+      "id": 6,
+      "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/l/o/loa-jbl-charge-5-xanh-nhat-teal-4_2_1.jpg",
+      "name": "Loa bluetooth JBL Charge 5",
+      "price": "3990000",
+      "sale": "20000",
+      "longDesc": " Loa tốt",
+      "shortDesc": "Loa JBL",
+      "salientfeatures": " Nghe 20H\nKết nối 2 ica\nCông suất 40W",
+      "category": "2"
+    },
+    {
+      "image": "http://res.cloudinary.com/thisisninh/image/upload/v1658328981/245037951_368239588317705_4542527089937322998_n_telgez.jpg",
+      "name": "Mai Kha Ninh",
+      "price": "300000",
+      "sale": "20000",
+      "shortDesc": "dasd",
+      "salientfeatures": "dasd",
+      "category": "2",
+      "id": 7
+    },
+    {
+      "image": "http://res.cloudinary.com/thisisninh/image/upload/v1658357551/245009004_593053491882384_4114708322810560739_n_kit8rj.jpg",
+      "name": "name",
+      "price": "300000",
+      "sale": "20000",
+      "longDesc": " asdf ádfa",
+      "shortDesc": "q weqwefqw fasdv ",
+      "salientfeatures": "sd sad d",
+      "category": "4",
+      "id": 8
+    },
+    {
+      "image": "http://res.cloudinary.com/thisisninh/image/upload/v1658357638/277794741_537211031309681_805531987516511216_n_zksz4e.jpg",
+      "name": "name",
+      "price": "300000",
+      "sale": "20000",
+      "longDesc": "21341234",
+      "shortDesc": "421341234",
+      "salientfeatures": "4234124",
+      "category": "3",
+      "id": 9
+    }
+  ],
+  "category": [
+    {
+      "name": "Diện thoại",
+      "id": "1"
+    },
+    {
+      "name": "Máy tính bảng",
+      "id": "2"
+    },
+    {
+      "name": "Lap top",
+      "id": "3"
+    },
+    {
+      "name": "Phụ kiện",
+      "id": "4"
+    }
+  ]
+}
